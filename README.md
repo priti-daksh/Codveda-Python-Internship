@@ -1,19 +1,21 @@
-# Simple Calculator
+# Number Guessing Game
 
-A simple calculator application built using Python.
+A simple Python game where the computer generates a random number between 1 and 100, and the user has to guess the correct number.
 
 ## Features
 
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Division by Zero Handling
-- Invalid Input Handling
+- Random number generation
+- Maximum 7 attempts
+- Too high and too low feedback
+- Invalid input handling
+- Number range validation
+- Game over message
+- Displays the correct number
 
 ## Technologies Used
 
 - Python
+- Random Module
 
 ## How to Run
 
@@ -22,8 +24,15 @@ A simple calculator application built using Python.
 3. Run the following command:
 
 ```bash
-python calculator.py
+python guessing_game.py
 ```
+
+## Project Structure
+
+Task-2-Number-Guessing-Game/
+│
+├── guessing_game.py
+└── README.md
 
 ## Author
 
