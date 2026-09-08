@@ -1,0 +1,5 @@
+Hello! Welcome to my Python Development Internship.
+
+I am learning Python programming and building different projects.
+
+This Word Counter project reads a text file and counts the total number of words.
