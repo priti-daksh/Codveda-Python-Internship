@@ -34,6 +34,22 @@ A Python game where the computer generates a random number between 1 and 100, an
 
 📁 [View Project](Level-1/Task-2-Number-Guessing-Game)
 
+---
+
+### 📄 Task 3: Word Counter
+
+A simple Python program that reads a text file and counts the total number of words.
+
+**Features:**
+- Reads content from a text file
+- Counts the total number of words
+- Handles file not found errors
+- Displays a success message
+
+📁 [View Project](Level-1/Task-3-Word-Counter)
+
+---
+
 ## Technologies Used
 
 - Python
